@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 
 public class Main {
 
-    private static final Integer NUMBER_OF_DIGIT = 5;
+    private static final Integer NUMBER_OF_DIGIT = 3;
 
 
     public static void main(String[] args) {
